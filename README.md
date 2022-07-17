@@ -1,5 +1,4 @@
-# Supermarket-Billing-System
-This project is made using C++ programming language.
+// Supermarket-Billing-System
 
 #include<iostream>
 #include<fstream>
